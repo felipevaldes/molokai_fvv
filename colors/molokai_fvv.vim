@@ -120,7 +120,7 @@ hi SpecialKey      guifg=#75715E
 "
 if &t_Co > 255
    hi Normal       ctermfg=252 ctermbg=234
-   hi CursorLine               ctermbg=235   cterm=none
+   hi CursorLine               ctermbg=237   cterm=none
    hi CursorLineNr ctermfg=208               cterm=none
 
    hi Boolean         ctermfg=141
